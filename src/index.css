@@ -95,3 +95,7 @@ li {
   cursor: text;
   overflow: auto;
 }
+#delete{
+  background-color: transparent;
+  font-size: 16px;
+}
